@@ -2,3 +2,5 @@ archive/*
 data.zip
 pipeline.log
 dataset*
+.ipynb_checkpoints/*
+tf_tuner_directory/*
